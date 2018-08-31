@@ -1,0 +1,5 @@
+# PyBuilder
+target/
+
+# mypy
+__pycache__
